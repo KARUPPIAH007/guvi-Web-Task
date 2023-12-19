@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "email": "priyeshkumar000@gmail.com",
+        "email": "karuppiahsaravanan10@gmail.com",
         "password": "cXdlcnR5MTM=",
         "name": "shaki",
         "age": "-541",
@@ -9,7 +9,7 @@
         "phone": "8668172092",
         "dob": "2560-06-14",
         "college": "undefined",
-        "state": "Gujarat",
+        "state": "Tamil Nadu",
         "degree": "B.Tech",
         "department": "Automobile Engineering",
         "yop": "91",
@@ -17,9 +17,9 @@
     },
     {
         "id": "2",
-        "email": "pk@gmail.com",
+        "email": "kk@gmail.com",
         "password": "cXdlcnR5dWk=",
-        "name": "Priyesh",
+        "name": "Saravanan",
         "age": "19",
         "gender": "Male",
         "phone": "9898989898",
